@@ -26,7 +26,7 @@ This project was created as part of an **HTML assignment** to practice:
 - Building a large-scale layout **without CSS**  
 
 
-## 🖼Preview
+## Preview
 The periodic table appears in soft pastel shades with a scrolling marquee title:  
 **"MENDELEEV'S PERIODIC TABLE"**  
 
